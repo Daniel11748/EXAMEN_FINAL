@@ -1,0 +1,130 @@
+body{
+    background-color: rgb(158, 18, 18);
+}
+
+article{
+    position: fixed;
+    border-radius: 50%;
+
+
+}
+
+article img{
+    position: fixed;
+    border-radius: 50%;
+    border: solid white;
+    width: 5cm;
+    box-shadow: 5px 10px 10px 10px rgb(234, 234, 234);
+
+}
+
+
+.formulario{
+    margin:0 auto;
+    background-color: rgba(232, 162, 162, 0.736);
+    height: 10cm;
+    width: 15cm;
+    border: solid white;
+    border-radius: 2%;
+    box-shadow: 5px 5px 10px 10px rgba(13, 43, 175, 0.34);
+}
+
+.form{
+    margin: 0 auto;
+    margin-left: 10%;
+    margin-top: 0.2cm;
+    width: 8cm;
+    text-align: center;
+    text-align: left;
+}
+
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.form input {
+    width: 60%;
+    box-sizing: border-box;
+    border: 1px solid #ef0000b8;
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+}
+
+#input1{
+    width: 80%
+}
+
+.Noap{
+    width: 8cm;
+}
+#input2{
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 2cm;
+    height: 1.2cm;
+}
+
+.formulario h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#tabla{
+    margin:0 auto;
+    margin-top: 1%;
+    background-color: rgba(232, 162, 162, 0.736);
+    height: 15cm;
+    width: 25cm;
+    border: solid white;
+    border-radius: 2%;   
+    box-shadow: 5px 5px 10px 10px rgba(13, 43, 175, 0.34);
+ 
+}
+
+#tabla h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#tabla img{
+    width: 2cm;
+}
+
+#tabla table{
+    border: solid white 1px;
+    border-collapse: collapse;
+    margin-left: 0.5cm;
+    width: 24cm;
+}
+#tabla table th{
+    border: solid white 1px;
+    border-collapse: collapse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 3cm;
+
+}
+#tabla table tr{
+    border: solid white 1px;
+    border-collapse: collapse;
+}
+#tabla table td{
+    border: solid white 1px;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: aliceblue;
+}
